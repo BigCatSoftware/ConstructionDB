@@ -22,7 +22,7 @@ ConstructionDB/
 ├── schema.sql                  -- Database and table definitions
 ├── seed.sql                    -- Sample data
 ├── queries/
-│   └── 01__selects.sql    -- SELECT queries
+│   └── 01_selects.sql    -- SELECT queries
 └── README.md
 ```
 
